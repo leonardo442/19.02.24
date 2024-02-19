@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {exibirHorario} from './componentes/Horario';
+import {exibirHorario} from './components/Horario';
 
 function App() {
   return (
